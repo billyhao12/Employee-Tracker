@@ -11,7 +11,6 @@ This application allows a manager to organize their company's departments, roles
 * [Credits](#credits)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
